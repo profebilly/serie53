@@ -38,4 +38,14 @@ for (let i = 0; i < numeroPaginas; i++) {
         e.target.classList.add('activo');
     });
 
+    /*  var contenido = document.querySelector('#contenido5')
+
+    function traer() {
+        fetch('https://randomuser.me/')
+            .then(res => res.json())
+            .then(data => {
+                console.log(data)
+            })
+    }
+*/
 }
